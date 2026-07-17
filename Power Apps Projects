@@ -1,0 +1,58 @@
+# Power Apps Projects
+
+This section contains Power Apps solutions developed for business process automation, data collection, workflow management, and reporting.
+
+## Featured Projects
+
+### Charter Comments Management App
+
+#### Overview
+Developed a Power Apps Canvas Application integrated with Power BI to allow business users to submit, update, and manage charter comments directly from reporting dashboards.
+
+#### Technologies
+- Power Apps
+- Dataverse
+- Power BI
+- Power Automate
+
+#### Features
+- User comment submission
+- Real-time updates
+- Integration with Power BI reports
+- Role-based access
+- Audit tracking
+
+#### Business Impact
+Reduced manual email communication and centralized charter review comments within a single platform.
+
+---
+
+### Committee Management App
+
+#### Overview
+Built a Power Apps solution to manage committee information, ownership assignments, and governance activities.
+
+#### Technologies
+- Power Apps
+- SharePoint
+- Dataverse
+- Power Automate
+
+#### Features
+- Committee maintenance
+- Owner assignment
+- Status tracking
+- Automated notifications
+
+---
+
+### Skills Demonstrated
+
+- Canvas App Development
+- Dataverse Integration
+- Power BI Integration
+- Power Automate Workflows
+- User Experience Design
+- Business Process Automation
+- Data Validation
+- Security & Role Management
