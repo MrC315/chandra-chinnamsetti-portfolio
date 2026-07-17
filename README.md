@@ -63,7 +63,7 @@ Workflow automation solutions that reduce manual effort and improve operational 
 Modern data engineering solutions including data pipelines, lakehouse architectures, ETL frameworks, and cloud analytics platforms.
 
 ### 🏆 Certifications
-Professional certifications, technical skills, and continuous learning achievements.
+Microsoft Certified Associate (PL-300)
 
 ---
 
