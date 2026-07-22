@@ -1,5 +1,9 @@
 # Financial KPI Dashboard
 
+# Link 
+
+https://app.powerbi.com/view?r=eyJrIjoiNmQ1YjY0ZDktOTIzYi00ZDI4LWIzZmUtNWQ2NzJjOGNmZjdkIiwidCI6ImQwMmMzNDc0LTUxNGQtNDc1MS04MTYyLTQ2NDNlMzc5MTAxMiIsImMiOjN9
+
 ## Overview
 
 Developed a 3-page interactive Power BI dashboard to analyze financial performance, profitability, and transaction-level insights.
