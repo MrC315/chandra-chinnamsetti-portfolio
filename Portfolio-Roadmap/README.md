@@ -10,7 +10,7 @@
 ## Next Projects
 
 ### Power BI
-- [ ] Healthcare Claims Analytics Dashboard
+- [x] Healthcare Claims Analytics Dashboard
 - [ ] Retail Sales Analytics Dashboard
 
 ### Power Apps
